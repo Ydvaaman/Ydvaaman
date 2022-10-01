@@ -7,5 +7,5 @@
 - 📫 How to reach me:  [Linkedln-@amanyadav](https://www.linkedin.com/in/aman-yadav-262313220/)
 - 😄 Pronouns:He/His
 - ⚡ Fun fact: The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.
-[![@ydvaman's Holopin board](https://holopin.io/api/user/board?user=ydvaman)](https://holopin.io/@ydvaman)
+
 

@@ -1,6 +1,6 @@
 ## Hola I'm Aman Yadav!👋
 
-- 🔭 I’m currently working on Web Development
+- 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning Java
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about web development and any tech related stuff

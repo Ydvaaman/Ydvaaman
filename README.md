@@ -1,8 +1,8 @@
+![GitHub followers](https://img.shields.io/github/followers/ydvaaman?label=Follow&style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ydvaaman?label=Follow)](https://twitter.com/intent/follow?screen_name=ydvaaman)
 [![Linkedin: Aman](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ydvaaman/)](https://www.linkedin.com/in/ydvaaman/)
 <img src="https://komarev.com/ghpvc/?username=ydvaaman&label=Profile%20views&color=brightgreen&style=flat" alt="ydvaaman" />
 ![MasterHead](https://github.com/Ydvaaman/Ydvaaman/blob/main/footer.png)
-[![An image of @ydvaman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ydvaman)](https://holopin.io/@ydvaman)
 <h1 align="center">Hi 👋, I'm Aman Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -31,10 +31,11 @@
 
 ## Snake eating my contribution graph 🐍
 ![snake gif](https://github.com/ydvaaman/Actions/blob/output/github-contribution-grid-snake.svg)
-</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ydvaaman&show_icons=true&locale=en&layout=compact" alt="ydvaaman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ydvaaman&show_icons=true&locale=en" alt="ydvaaman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ydvaaman&" alt="ydvaaman" /></p>
+## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/ydvaaman">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ydvaaman&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ydvaaman&layout=compact&langs_count=8&theme=gotham"/>
+</a>
+</p>
